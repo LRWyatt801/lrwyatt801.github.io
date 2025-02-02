@@ -5,5 +5,5 @@ It will host a variety of items like
 - My Resume
 - Projects
 - Contact Infomation
-<brk>
+<brk> <brk>
 I will be using this as a means to advertise Logan.
